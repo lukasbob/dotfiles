@@ -1,6 +1,7 @@
 PATH="/Library/Python/2.6:${PATH}"
 HISTCONTROL=erasedups
 HISTSIZE=10000
+EDITOR='mate -w'
 
 GOROOT=$HOME/go
 GOOS=darwin
